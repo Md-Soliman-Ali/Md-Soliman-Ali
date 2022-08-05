@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md.Soliman Ali</h1>
+<h1 align="center">Hi 👋, I'm Md. Soliman Ali</h1>
 <h3 align="center">To be an astute learner & be the best performer, so that I can build an innovative career by using my skills & other significant talents. I spend a lot of time learning new techniques & actively help other people. I'm currently working as a "Software Engineer in Test". I have worked on various projects in software automation, manual testing, API testing, Web & Mobile application testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-soliman-ali&label=Profile%20views&color=0e75b6&style=flat" alt="md-soliman-ali" /> </p>
