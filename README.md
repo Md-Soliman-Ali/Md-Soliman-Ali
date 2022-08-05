@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [Md. Soliman Ali](Md. Soliman Ali)
+- 👨‍💻 All of my projects are available at [Md. Soliman Ali](https://github.com/Md-Soliman-Ali?tab=repositories)
 
 - 💬 Ask me about **Selenium, Appium, Integration Testing, Cucumber, Mocha-Chai, Performance Testing, Ethical Hacking.**
 
